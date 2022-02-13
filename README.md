@@ -7,7 +7,7 @@ I'm an entrepreneur, founder of:
 More about me:
 - 🏭 Hosted at [StationF](https://stationf.co/)
 - 🏠 Living between 🌴 Los Angeles and 🥖 Paris
-- 🎓 Learner, 🔊 Speaker, 💻 Geek and 🐱‍👤 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4040054) for 💬 [Microsoft Teams](https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software)
+- 🎓 Learner, 🔊 Speaker, 💻 Geek and [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4040054) for 💬 [Microsoft Teams](https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software)
 
 Connect with me:
 
