@@ -2,7 +2,7 @@
 
 I'm an entrepreneur, founder of:
 - [nBold](https://nbold.co), aka "The collaboration process technology".
-- [WhatStack](https://whatstack.io), aka "The leadgen booster".
+- [WhatStack](https://whatstack.io), aka "The leadgen booster for B2B startups".
 
 More about me:
 - 🏭 Hosted at [StationF](https://stationf.co/)
