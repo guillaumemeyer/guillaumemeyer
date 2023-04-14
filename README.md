@@ -1,8 +1,6 @@
 # 👋 Hi there 
 
-I'm an entrepreneur, founder of:
-- [nBold](https://nbold.co), aka "The collaboration process technology".
-- [WhatStack](https://whatstack.io), aka "The leadgen booster for tech companies".
+I'm an entrepreneur, founder of [nBold](https://nbold.co), aka "The collaboration process technology".
 
 More about me:
 - 🏭 Hosted at [StationF](https://stationf.co/)
