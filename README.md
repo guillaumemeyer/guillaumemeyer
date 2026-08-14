@@ -3,7 +3,7 @@
 I'm **Guillaume Meyer**, an entrepreneur, builder, advisor, and CTO.
 
 Founder of [Memo](https://heymemo.ai), the AI growth engine for e-commerce brands.  
-Creator of [🧹 Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover), an agent skill that removes watermarks from major vendors.
+Creator of [🧹 Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover), privacy-first tooling to strip multi-vendor AI provenance watermarks.
 
 More about me:
 - Living between 🥖 Paris and 🌴 Los Angeles.
